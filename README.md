@@ -15,8 +15,8 @@ The dataset is organised such that each of the two female actor and their emotio
 - sadness
 - neutral
 
-**Download link:** https://www.kaggle.com/code/husseinaliofficial/speech-emotion-recognition-ser/data
-**Notbook link :** https://www.kaggle.com/code/husseinaliofficial/speech-emotion-recognition-ser/notebook
+- **Download link:** https://www.kaggle.com/code/husseinaliofficial/speech-emotion-recognition-ser/data
+- **Notbook link :** https://www.kaggle.com/code/husseinaliofficial/speech-emotion-recognition-ser/notebook
 
 # Libraries
 
